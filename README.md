@@ -1,5 +1,5 @@
 # FirstArtificialNeuron
- Documentation du Neurone Artificiel pour la Classification Binaire Linéaire
+Neurone Artificiel pour la Classification Binaire Linéaire
 Ce projet implémente un neurone artificiel pour la classification binaire linéaire. Bien que l'exemple principal concerne la classification de plantes comme toxiques ou non toxiques basée sur la largeur et la longueur de leurs feuilles, ce modèle est suffisamment général pour être adapté à d'autres applications de classification binaire linéaire.
 
 Contenu
